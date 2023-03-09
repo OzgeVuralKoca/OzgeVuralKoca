@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [ozgevuralkoca.github.io](ozgevuralkoca.github.io)
 
 <p align="left">
-<a href="https://linkedin.com/in/ozgevuralkoca" style:"backgroundcolor:#0e76a8; color:white; border-radius:15px; text-align:center" target="blank"><img align="center" alt="ozgevuralkoca" height="30" width="40" />LinkedIn</a>
+<a href="https://linkedin.com/in/ozgevuralkoca" style="backgroundcolor:#0e76a8; color:white; border-radius:15px; text-align:center" target="blank"><img align="center" alt="ozgevuralkoca" height="30" width="40" />LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
