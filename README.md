@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Angular | Nodejs | MongoDb | CSS3 | Bootstrap</h3>
 
 
-<p align="center">- 👨‍💻 All of my projects are available at [ozgevuralkoca.github.io](ozgevuralkoca.github.io)</p>
+<p align="center">- 👨‍💻 My Portfolio are available at [ozgevuralkoca.github.io](ozgevuralkoca.github.io)</p>
 
 
 <h2 align="center">🤝 Connect with me:   <a href="https://www.linkedin.com/in/%C3%B6zge-vural-koca/" target="_blank" rel="noreferrer"> <img alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a></h2>
