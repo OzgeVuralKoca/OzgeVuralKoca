@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Özge Vural Koca</h1>
-<h3 align="center">Frontend Developer | Angular | Nodejs | MongoDb | CSS3 | Bootstrap</h3>
+<h3 align="center">Hi 👋, I'm Özge Vural Koca</h1>
+<h1 align="center"> I'am am Frontend Developer | Angular | Nodejs | MongoDb | CSS3 | Bootstrap</h1>
+<h4 align="left">I am a Frontend Developer with engineering background. I have completed many trainings and made numerous sample applications about with Fronted Developing. I improved myself in a short time, thanks to my ability to think analytically, solve problems, and my curiousness.</h4>
+
+<h3 align="center">🤝 Connect with me: <a href="https://www.linkedin.com/in/%C3%B6zge-vural-koca/" target="_blank" rel="noreferrer"> <img alt="linkedin | LinkedIn" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a></h3>
+
+<p align="left">- 👨‍💻 My Portfolio are available at [ozgevuralkoca.github.io](ozgevuralkoca.github.io)</p>
 
 
-<p align="center">- 👨‍💻 My Portfolio are available at [ozgevuralkoca.github.io](ozgevuralkoca.github.io)</p>
 
-
-<h2 align="center">🤝 Connect with me:   <a href="https://www.linkedin.com/in/%C3%B6zge-vural-koca/" target="_blank" rel="noreferrer"> <img alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a></h2>
 
 
 <h3 align="center">Languages and Tools:</h3>
