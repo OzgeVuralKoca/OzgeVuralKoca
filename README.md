@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Özge Vural Koca</h1>
-<h3 align="center">A Frontend Developer from Turkey</h3>
+<h3 align="center">Frontend Developer | Angular | Nodejs | MongoDb | CSS3 | Bootstrap</h3>
 
 - 👨‍💻 All of my projects are available at [ozgevuralkoca.github.io](ozgevuralkoca.github.io)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ozgevuralkoca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozgevuralkoca" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ozgevuralkoca" style:"backgroundcolor:#0e76a8; color:white; border-radius:15px; text-align:center" target="blank"><img align="center" alt="ozgevuralkoca" height="30" width="40" />LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
