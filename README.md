@@ -3,7 +3,7 @@
 <h4 align="left">I am a Frontend Developer with engineering background. I have completed many trainings and made numerous sample applications about with Fronted Developing. I improved myself in a short time, thanks to my ability to think analytically, solve problems, and my curiousness.</h4>
 
 <h3 align="left">🤝 Connect with me: <a href="https://www.linkedin.com/in/%C3%B6zge-vural-koca/" target="_blank" rel="noreferrer"> <img alt="linkedin | LinkedIn" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a></h3>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any question/feedback, please do not hesitate to contact!
 </br>
 <h3 align="left">My Portfolio Website</h3>
 <p align="left">- 👨‍💻 My Portfolio are available at <a href="https://ozgevuralkoca.github.io" target="_blank" rel="noreferrer">ozgevuralkoca.github.io</a></p>
