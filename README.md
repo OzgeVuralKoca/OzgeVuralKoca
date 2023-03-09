@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Özge Vural Koca</h1>
 <h3 align="center">Frontend Developer | Angular | Nodejs | MongoDb | CSS3 | Bootstrap</h3>
 
-<p align="center"> <img src="https://cdn.pixabay.com/photo/2016/02/17/15/37/laptop-1205256_960_720.jpg"/></p>
+<p align="center"></p>
 
 - 👨‍💻 All of my projects are available at [ozgevuralkoca.github.io](ozgevuralkoca.github.io)
 
